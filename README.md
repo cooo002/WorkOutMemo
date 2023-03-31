@@ -1,3 +1,1 @@
-# Completed Project: Working with UI Controls
-
-Explore the completed project for the [Working with UI Controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls) tutorial.
+# SwiftUI 및 watch 데이터 학습을 위한 토이프로젝트
